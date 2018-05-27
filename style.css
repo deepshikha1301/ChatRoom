@@ -1,0 +1,33 @@
+.AppName{
+    color:rgb(13, 114, 80);
+    font-family: 'Comic Sans MS', Courier, monospace;
+    text-align: center;
+}
+.BackGround{
+    background-image: url("img.jpg");
+}
+label{
+    color: rgb(13, 114, 80);
+    font-family: 'Comic Sans MS', Courier, monospace;
+}
+input{
+    opacity: 0.5;
+}
+form{
+    margin: auto;
+    width: 300px;
+}
+input{
+    height: 18px;
+    width: 120px;
+}
+.button{
+    background-color: rgb(13, 114, 80);
+    height: 30px;
+    width: 100px;
+    font-family: 'Comic Sans MS', Courier, monospace;
+    font-size: 15px;
+    opacity: 1;
+    border-radius: 12px;
+    border: none;
+}
